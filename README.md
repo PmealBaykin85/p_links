@@ -12,7 +12,7 @@
 - 1930 - 2130: [COMP1234](https://learn.georgebrown.ca/d2l/home/342901)
 
 #### Tuesday
-- 0930 - 1230: {COMM2000](https://learn.georgebrown.ca/d2l/home/325265)
+- 0930 - 1230: [COMM2000](https://learn.georgebrown.ca/d2l/home/325265)
 - 1730 - 1930: [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
 - 1930 - 2130: [COMP1151](https://learn.georgebrown.ca/d2l/home/335101)
   
